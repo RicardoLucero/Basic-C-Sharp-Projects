@@ -1,0 +1,14 @@
+C:\Users\ricar\OneDrive\Desktop\Basic_C#_Programs\InsuranceApproval\InsuranceApproval\bin\Debug\netcoreapp3.1\InsuranceApproval.exe
+C:\Users\ricar\OneDrive\Desktop\Basic_C#_Programs\InsuranceApproval\InsuranceApproval\bin\Debug\netcoreapp3.1\InsuranceApproval.deps.json
+C:\Users\ricar\OneDrive\Desktop\Basic_C#_Programs\InsuranceApproval\InsuranceApproval\bin\Debug\netcoreapp3.1\InsuranceApproval.runtimeconfig.json
+C:\Users\ricar\OneDrive\Desktop\Basic_C#_Programs\InsuranceApproval\InsuranceApproval\bin\Debug\netcoreapp3.1\InsuranceApproval.runtimeconfig.dev.json
+C:\Users\ricar\OneDrive\Desktop\Basic_C#_Programs\InsuranceApproval\InsuranceApproval\bin\Debug\netcoreapp3.1\InsuranceApproval.dll
+C:\Users\ricar\OneDrive\Desktop\Basic_C#_Programs\InsuranceApproval\InsuranceApproval\bin\Debug\netcoreapp3.1\InsuranceApproval.pdb
+C:\Users\ricar\OneDrive\Desktop\Basic_C#_Programs\InsuranceApproval\InsuranceApproval\obj\Debug\netcoreapp3.1\InsuranceApproval.csproj.AssemblyReference.cache
+C:\Users\ricar\OneDrive\Desktop\Basic_C#_Programs\InsuranceApproval\InsuranceApproval\obj\Debug\netcoreapp3.1\InsuranceApproval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\OneDrive\Desktop\Basic_C#_Programs\InsuranceApproval\InsuranceApproval\obj\Debug\netcoreapp3.1\InsuranceApproval.AssemblyInfoInputs.cache
+C:\Users\ricar\OneDrive\Desktop\Basic_C#_Programs\InsuranceApproval\InsuranceApproval\obj\Debug\netcoreapp3.1\InsuranceApproval.AssemblyInfo.cs
+C:\Users\ricar\OneDrive\Desktop\Basic_C#_Programs\InsuranceApproval\InsuranceApproval\obj\Debug\netcoreapp3.1\InsuranceApproval.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Desktop\Basic_C#_Programs\InsuranceApproval\InsuranceApproval\obj\Debug\netcoreapp3.1\InsuranceApproval.dll
+C:\Users\ricar\OneDrive\Desktop\Basic_C#_Programs\InsuranceApproval\InsuranceApproval\obj\Debug\netcoreapp3.1\InsuranceApproval.pdb
+C:\Users\ricar\OneDrive\Desktop\Basic_C#_Programs\InsuranceApproval\InsuranceApproval\obj\Debug\netcoreapp3.1\InsuranceApproval.genruntimeconfig.cache
