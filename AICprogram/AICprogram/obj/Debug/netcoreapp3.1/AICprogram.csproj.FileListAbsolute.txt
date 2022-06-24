@@ -1,0 +1,14 @@
+C:\Users\ricar\OneDrive\Desktop\Basic_C#_Programs\AICprogram\AICprogram\bin\Debug\netcoreapp3.1\AICprogram.exe
+C:\Users\ricar\OneDrive\Desktop\Basic_C#_Programs\AICprogram\AICprogram\bin\Debug\netcoreapp3.1\AICprogram.deps.json
+C:\Users\ricar\OneDrive\Desktop\Basic_C#_Programs\AICprogram\AICprogram\bin\Debug\netcoreapp3.1\AICprogram.runtimeconfig.json
+C:\Users\ricar\OneDrive\Desktop\Basic_C#_Programs\AICprogram\AICprogram\bin\Debug\netcoreapp3.1\AICprogram.runtimeconfig.dev.json
+C:\Users\ricar\OneDrive\Desktop\Basic_C#_Programs\AICprogram\AICprogram\bin\Debug\netcoreapp3.1\AICprogram.dll
+C:\Users\ricar\OneDrive\Desktop\Basic_C#_Programs\AICprogram\AICprogram\bin\Debug\netcoreapp3.1\AICprogram.pdb
+C:\Users\ricar\OneDrive\Desktop\Basic_C#_Programs\AICprogram\AICprogram\obj\Debug\netcoreapp3.1\AICprogram.csproj.AssemblyReference.cache
+C:\Users\ricar\OneDrive\Desktop\Basic_C#_Programs\AICprogram\AICprogram\obj\Debug\netcoreapp3.1\AICprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\OneDrive\Desktop\Basic_C#_Programs\AICprogram\AICprogram\obj\Debug\netcoreapp3.1\AICprogram.AssemblyInfoInputs.cache
+C:\Users\ricar\OneDrive\Desktop\Basic_C#_Programs\AICprogram\AICprogram\obj\Debug\netcoreapp3.1\AICprogram.AssemblyInfo.cs
+C:\Users\ricar\OneDrive\Desktop\Basic_C#_Programs\AICprogram\AICprogram\obj\Debug\netcoreapp3.1\AICprogram.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Desktop\Basic_C#_Programs\AICprogram\AICprogram\obj\Debug\netcoreapp3.1\AICprogram.dll
+C:\Users\ricar\OneDrive\Desktop\Basic_C#_Programs\AICprogram\AICprogram\obj\Debug\netcoreapp3.1\AICprogram.pdb
+C:\Users\ricar\OneDrive\Desktop\Basic_C#_Programs\AICprogram\AICprogram\obj\Debug\netcoreapp3.1\AICprogram.genruntimeconfig.cache
