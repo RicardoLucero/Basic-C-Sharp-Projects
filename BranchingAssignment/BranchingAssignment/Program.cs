@@ -28,7 +28,7 @@ namespace BranchingAssignment
                 int total = length * width * height * weight;// we get the total dimension from the box to see if it is too big to ship.
                 decimal quote = total / 100m;// we divide the total by 100 for the quote and save this variable so we can use it in the branching statement.
 
-                if (length * width * height < 50)// the second branching statement to see if the box is too big dimision wise.
+                if (length + width + height > 50)// the second branching statement to see if the box is too big dimision wise.
                 {
                     Console.WriteLine("Package too big to be shipped via package express. Have a good day.");// our statement if it is too big.
                 }
