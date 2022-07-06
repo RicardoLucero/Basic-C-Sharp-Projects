@@ -1,0 +1,14 @@
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringAndIntegersAssignment\StringAndIntegersAssignment\bin\Debug\netcoreapp3.1\StringAndIntegersAssignment.exe
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringAndIntegersAssignment\StringAndIntegersAssignment\bin\Debug\netcoreapp3.1\StringAndIntegersAssignment.deps.json
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringAndIntegersAssignment\StringAndIntegersAssignment\bin\Debug\netcoreapp3.1\StringAndIntegersAssignment.runtimeconfig.json
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringAndIntegersAssignment\StringAndIntegersAssignment\bin\Debug\netcoreapp3.1\StringAndIntegersAssignment.runtimeconfig.dev.json
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringAndIntegersAssignment\StringAndIntegersAssignment\bin\Debug\netcoreapp3.1\StringAndIntegersAssignment.dll
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringAndIntegersAssignment\StringAndIntegersAssignment\bin\Debug\netcoreapp3.1\StringAndIntegersAssignment.pdb
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringAndIntegersAssignment\StringAndIntegersAssignment\obj\Debug\netcoreapp3.1\StringAndIntegersAssignment.csproj.AssemblyReference.cache
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringAndIntegersAssignment\StringAndIntegersAssignment\obj\Debug\netcoreapp3.1\StringAndIntegersAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringAndIntegersAssignment\StringAndIntegersAssignment\obj\Debug\netcoreapp3.1\StringAndIntegersAssignment.AssemblyInfoInputs.cache
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringAndIntegersAssignment\StringAndIntegersAssignment\obj\Debug\netcoreapp3.1\StringAndIntegersAssignment.AssemblyInfo.cs
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringAndIntegersAssignment\StringAndIntegersAssignment\obj\Debug\netcoreapp3.1\StringAndIntegersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringAndIntegersAssignment\StringAndIntegersAssignment\obj\Debug\netcoreapp3.1\StringAndIntegersAssignment.dll
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringAndIntegersAssignment\StringAndIntegersAssignment\obj\Debug\netcoreapp3.1\StringAndIntegersAssignment.pdb
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringAndIntegersAssignment\StringAndIntegersAssignment\obj\Debug\netcoreapp3.1\StringAndIntegersAssignment.genruntimeconfig.cache
