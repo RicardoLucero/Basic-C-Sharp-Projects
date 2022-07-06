@@ -59,51 +59,24 @@ class Program
         }
         Console.ReadLine();
 
-        // block for list 
+        // block for list of strings to search through
         List<string> stringList = new List<string>() { "whale", "dog", "bird", "fridge", "water", "car"};// initializing a list with strings
 
         Console.WriteLine("Please give a word to search inside the list.");
         string giveWord = Console.ReadLine();// We take the input from the user
-        bool words = false;// we use a boolean for the while loop
 
-        do// we use a do to make sure the while loop goes through at least once if they guess the word correctly the first time
+        for (int i = 0; i < stringList.Count; i++)// the for loop to get the index value of each item.
         {
-            switch (giveWord)
+            if (stringList.Contains(giveWord))// if the input is matched do this
             {
-                case "whale":
-                    Console.WriteLine("Your word was found: " + giveWord);
-                    words = true;// after they get a correct guess we change the bool to true to get out of the while loop
-                    break;
-                case "dog":
-                    Console.WriteLine("Your word was found: " + giveWord);
-                    words = true;
-                    break;
-                case "bird":
-                    Console.WriteLine("Your word was found: " + giveWord);
-                    words = true;
-                    break;
-                case "fridge":
-                    Console.WriteLine("Your word was found: " + giveWord);
-                    words = true;
-                    break;
-                case "water":
-                    Console.WriteLine("Your word was found: " + giveWord);
-                    words = true;
-                    break;
-                case "car":
-                    Console.WriteLine("Your word was found: " + giveWord);
-                    words = true;
-                    break;
-                default:
-                    Console.WriteLine("Your word was not found.\n" +
-                        "Try another word.");
-                    giveWord = Console.ReadLine();
-                    break;
-
+                Console.WriteLine("the input is on index: " + i);
+                break;
+            }
+            else// if the input was unmatch then do this chunk
+            {
+                Console.WriteLine("sorry, The input is not on the list.");
             }
         }
-        while (!words);
-
         Console.ReadLine();
         // block for guessing with a list and iterating through it.
         List<string> colors = new List<string>() { "red", "orange", "yellow", "green", "blue", "indigo", "violet", "green" };
@@ -134,11 +107,11 @@ class Program
             if (checkList.Contains(city))// checks if the second list contains the item
             {
                 Console.WriteLine(city + ": This has been on the list before");// if the item is not on the second list we then add it
-                checkList.Add(city);
             }
             else// else we dont add to the list.
             {
                 Console.WriteLine(city + ": This has not been on the list before");
+                checkList.Add(city);
             }
         }
         Console.ReadLine();
