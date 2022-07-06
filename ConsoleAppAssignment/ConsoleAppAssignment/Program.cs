@@ -64,18 +64,20 @@ class Program
 
         Console.WriteLine("Please give a word to search inside the list.");
         string giveWord = Console.ReadLine();// We take the input from the user
+        bool word = false;
 
         for (int i = 0; i < stringList.Count; i++)// the for loop to get the index value of each item.
         {
-            if (stringList.Contains(giveWord))// if the input is matched do this
+            if (stringList[i] == giveWord)// if the input is matched do this
             {
+                word = true;
                 Console.WriteLine("the input is on index: " + i);
                 break;
             }
-            else// if the input was unmatch then do this chunk
-            {
-                Console.WriteLine("sorry, The input is not on the list.");
-            }
+        }
+        if (!word)// if the input was unmatched then do this chunk
+        {
+            Console.WriteLine("sorry, The input is not on the list.");
         }
         Console.ReadLine();
         // block for guessing with a list and iterating through it.
