@@ -1,0 +1,14 @@
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsAssignment\MethodsAssignment\bin\Debug\netcoreapp3.1\MethodsAssignment.exe
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsAssignment\MethodsAssignment\bin\Debug\netcoreapp3.1\MethodsAssignment.deps.json
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsAssignment\MethodsAssignment\bin\Debug\netcoreapp3.1\MethodsAssignment.runtimeconfig.json
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsAssignment\MethodsAssignment\bin\Debug\netcoreapp3.1\MethodsAssignment.runtimeconfig.dev.json
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsAssignment\MethodsAssignment\bin\Debug\netcoreapp3.1\MethodsAssignment.dll
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsAssignment\MethodsAssignment\bin\Debug\netcoreapp3.1\MethodsAssignment.pdb
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsAssignment\MethodsAssignment\obj\Debug\netcoreapp3.1\MethodsAssignment.csproj.AssemblyReference.cache
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsAssignment\MethodsAssignment\obj\Debug\netcoreapp3.1\MethodsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsAssignment\MethodsAssignment\obj\Debug\netcoreapp3.1\MethodsAssignment.AssemblyInfoInputs.cache
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsAssignment\MethodsAssignment\obj\Debug\netcoreapp3.1\MethodsAssignment.AssemblyInfo.cs
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsAssignment\MethodsAssignment\obj\Debug\netcoreapp3.1\MethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsAssignment\MethodsAssignment\obj\Debug\netcoreapp3.1\MethodsAssignment.dll
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsAssignment\MethodsAssignment\obj\Debug\netcoreapp3.1\MethodsAssignment.pdb
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsAssignment\MethodsAssignment\obj\Debug\netcoreapp3.1\MethodsAssignment.genruntimeconfig.cache
