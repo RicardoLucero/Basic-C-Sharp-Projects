@@ -1,0 +1,14 @@
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\VoidMethodAssignment\VoidMethodAssignment\bin\Debug\netcoreapp3.1\VoidMethodAssignment.exe
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\VoidMethodAssignment\VoidMethodAssignment\bin\Debug\netcoreapp3.1\VoidMethodAssignment.deps.json
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\VoidMethodAssignment\VoidMethodAssignment\bin\Debug\netcoreapp3.1\VoidMethodAssignment.runtimeconfig.json
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\VoidMethodAssignment\VoidMethodAssignment\bin\Debug\netcoreapp3.1\VoidMethodAssignment.runtimeconfig.dev.json
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\VoidMethodAssignment\VoidMethodAssignment\bin\Debug\netcoreapp3.1\VoidMethodAssignment.dll
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\VoidMethodAssignment\VoidMethodAssignment\bin\Debug\netcoreapp3.1\VoidMethodAssignment.pdb
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\netcoreapp3.1\VoidMethodAssignment.csproj.AssemblyReference.cache
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\netcoreapp3.1\VoidMethodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\netcoreapp3.1\VoidMethodAssignment.AssemblyInfoInputs.cache
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\netcoreapp3.1\VoidMethodAssignment.AssemblyInfo.cs
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\netcoreapp3.1\VoidMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\netcoreapp3.1\VoidMethodAssignment.dll
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\netcoreapp3.1\VoidMethodAssignment.pdb
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\netcoreapp3.1\VoidMethodAssignment.genruntimeconfig.cache
