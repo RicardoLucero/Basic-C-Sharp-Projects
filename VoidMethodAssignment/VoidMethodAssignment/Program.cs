@@ -6,14 +6,14 @@ namespace VoidMethodAssignment
     {
         static void Main(string[] args)
         {
-            Numbers mynumbers = new Numbers();// Instantiate the class
+            Numbers myNumbers = new Numbers();// Instantiate the class.
 
-            Console.WriteLine("please give two numbers.\n" +//we ask for input of two numbers for the arguments
+            Console.WriteLine("please give two numbers.\n" +//we ask for input of two numbers for the arguments.
                 "Enter the first number.");
-            int firstNum = Convert.ToInt32(Console.ReadLine());//cast the input to int
+            int x = Convert.ToInt32(Console.ReadLine());//cast the input to int.
             Console.WriteLine("Enter the second number.");
-            int secondNum = Convert.ToInt32(Console.ReadLine());//cast the second input to int
-            Numbers.MyMethod(secondNum = firstNum, firstNum = secondNum);// calling the method and naming the parameters
+            int y = Convert.ToInt32(Console.ReadLine());//cast the second input to int.
+            Numbers.MyMethod(firstNum:y, secondNum:x);// calling the method and naming the parameters.
         }
     }
 }
