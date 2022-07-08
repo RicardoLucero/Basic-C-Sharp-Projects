@@ -6,9 +6,9 @@ namespace MethodOptionalParameter
 {
     class Optional
     {
-        public static int MyMethod(string x, string y = "6")//the method is asking for two parameters and one is an optional parameter
+        public int MyMethod(int x, int y = 6)//the method is asking for two parameters and one is an optional parameter
         {
-            int total = Convert.ToInt32(y) * Convert.ToInt32(x);// we will multiply the two together
+            int total = y * x;// we will multiply the two together
             return total;//we return the total.
         }
     }
