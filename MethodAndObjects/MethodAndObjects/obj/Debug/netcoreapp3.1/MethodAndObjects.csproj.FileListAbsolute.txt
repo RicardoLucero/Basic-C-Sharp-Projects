@@ -1,0 +1,14 @@
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodAndObjects\MethodAndObjects\bin\Debug\netcoreapp3.1\MethodAndObjects.exe
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodAndObjects\MethodAndObjects\bin\Debug\netcoreapp3.1\MethodAndObjects.deps.json
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodAndObjects\MethodAndObjects\bin\Debug\netcoreapp3.1\MethodAndObjects.runtimeconfig.json
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodAndObjects\MethodAndObjects\bin\Debug\netcoreapp3.1\MethodAndObjects.runtimeconfig.dev.json
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodAndObjects\MethodAndObjects\bin\Debug\netcoreapp3.1\MethodAndObjects.dll
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodAndObjects\MethodAndObjects\bin\Debug\netcoreapp3.1\MethodAndObjects.pdb
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodAndObjects\MethodAndObjects\obj\Debug\netcoreapp3.1\MethodAndObjects.csproj.AssemblyReference.cache
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodAndObjects\MethodAndObjects\obj\Debug\netcoreapp3.1\MethodAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodAndObjects\MethodAndObjects\obj\Debug\netcoreapp3.1\MethodAndObjects.AssemblyInfoInputs.cache
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodAndObjects\MethodAndObjects\obj\Debug\netcoreapp3.1\MethodAndObjects.AssemblyInfo.cs
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodAndObjects\MethodAndObjects\obj\Debug\netcoreapp3.1\MethodAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodAndObjects\MethodAndObjects\obj\Debug\netcoreapp3.1\MethodAndObjects.dll
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodAndObjects\MethodAndObjects\obj\Debug\netcoreapp3.1\MethodAndObjects.pdb
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodAndObjects\MethodAndObjects\obj\Debug\netcoreapp3.1\MethodAndObjects.genruntimeconfig.cache
