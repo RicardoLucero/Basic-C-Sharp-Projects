@@ -1,0 +1,14 @@
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OverloadingOperators\OverloadingOperators\bin\Debug\netcoreapp3.1\OverloadingOperators.exe
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OverloadingOperators\OverloadingOperators\bin\Debug\netcoreapp3.1\OverloadingOperators.deps.json
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OverloadingOperators\OverloadingOperators\bin\Debug\netcoreapp3.1\OverloadingOperators.runtimeconfig.json
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OverloadingOperators\OverloadingOperators\bin\Debug\netcoreapp3.1\OverloadingOperators.runtimeconfig.dev.json
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OverloadingOperators\OverloadingOperators\bin\Debug\netcoreapp3.1\OverloadingOperators.dll
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OverloadingOperators\OverloadingOperators\bin\Debug\netcoreapp3.1\OverloadingOperators.pdb
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OverloadingOperators\OverloadingOperators\obj\Debug\netcoreapp3.1\OverloadingOperators.csproj.AssemblyReference.cache
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OverloadingOperators\OverloadingOperators\obj\Debug\netcoreapp3.1\OverloadingOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OverloadingOperators\OverloadingOperators\obj\Debug\netcoreapp3.1\OverloadingOperators.AssemblyInfoInputs.cache
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OverloadingOperators\OverloadingOperators\obj\Debug\netcoreapp3.1\OverloadingOperators.AssemblyInfo.cs
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OverloadingOperators\OverloadingOperators\obj\Debug\netcoreapp3.1\OverloadingOperators.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OverloadingOperators\OverloadingOperators\obj\Debug\netcoreapp3.1\OverloadingOperators.dll
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OverloadingOperators\OverloadingOperators\obj\Debug\netcoreapp3.1\OverloadingOperators.pdb
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OverloadingOperators\OverloadingOperators\obj\Debug\netcoreapp3.1\OverloadingOperators.genruntimeconfig.cache
