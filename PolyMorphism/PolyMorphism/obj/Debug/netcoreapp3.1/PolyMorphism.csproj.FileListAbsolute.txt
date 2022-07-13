@@ -1,0 +1,14 @@
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\PolyMorphism\PolyMorphism\bin\Debug\netcoreapp3.1\PolyMorphism.exe
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\PolyMorphism\PolyMorphism\bin\Debug\netcoreapp3.1\PolyMorphism.deps.json
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\PolyMorphism\PolyMorphism\bin\Debug\netcoreapp3.1\PolyMorphism.runtimeconfig.json
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\PolyMorphism\PolyMorphism\bin\Debug\netcoreapp3.1\PolyMorphism.runtimeconfig.dev.json
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\PolyMorphism\PolyMorphism\bin\Debug\netcoreapp3.1\PolyMorphism.dll
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\PolyMorphism\PolyMorphism\bin\Debug\netcoreapp3.1\PolyMorphism.pdb
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\PolyMorphism\PolyMorphism\obj\Debug\netcoreapp3.1\PolyMorphism.csproj.AssemblyReference.cache
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\PolyMorphism\PolyMorphism\obj\Debug\netcoreapp3.1\PolyMorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\PolyMorphism\PolyMorphism\obj\Debug\netcoreapp3.1\PolyMorphism.AssemblyInfoInputs.cache
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\PolyMorphism\PolyMorphism\obj\Debug\netcoreapp3.1\PolyMorphism.AssemblyInfo.cs
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\PolyMorphism\PolyMorphism\obj\Debug\netcoreapp3.1\PolyMorphism.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\PolyMorphism\PolyMorphism\obj\Debug\netcoreapp3.1\PolyMorphism.dll
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\PolyMorphism\PolyMorphism\obj\Debug\netcoreapp3.1\PolyMorphism.pdb
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\PolyMorphism\PolyMorphism\obj\Debug\netcoreapp3.1\PolyMorphism.genruntimeconfig.cache
