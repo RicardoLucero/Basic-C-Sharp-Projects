@@ -1,0 +1,14 @@
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.exe
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.deps.json
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.runtimeconfig.json
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.runtimeconfig.dev.json
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.dll
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.pdb
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.csproj.AssemblyReference.cache
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.AssemblyInfoInputs.cache
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.AssemblyInfo.cs
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.dll
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.pdb
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.genruntimeconfig.cache
