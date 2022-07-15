@@ -37,6 +37,16 @@ namespace LambdaAssignment
             {
                 Console.WriteLine(employee.firstName);
             }
+            Console.ReadLine();
+
+            // we are doing the same as the foreach loop but witha LAMBDA function
+            List<Employee> employees = employeeList.Where(x => x.firstName == "Joe").ToList();
+            foreach (Employee employee in employees)
+            {
+                Console.WriteLine(employee.firstName);
+            }
+            Console.ReadLine();
+
             // now we create a new list to add the employees that have an ID greater than 5
             List<Employee> employeeID = employeeList.Where(x => x.ID > 5).ToList();
             //Once again we use a foreach loop to list the names of the employees that have an id > 5
@@ -44,6 +54,7 @@ namespace LambdaAssignment
             {
                 Console.WriteLine(employee.firstName);
             }
+            Console.ReadLine();
         }
     }
 }
