@@ -1,0 +1,14 @@
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatch\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.exe
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatch\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.deps.json
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatch\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.runtimeconfig.json
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatch\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.runtimeconfig.dev.json
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatch\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.dll
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatch\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.pdb
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.AssemblyInfoInputs.cache
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.AssemblyInfo.cs
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.dll
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.pdb
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.genruntimeconfig.cache
+C:\Users\ricar\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.csproj.AssemblyReference.cache
