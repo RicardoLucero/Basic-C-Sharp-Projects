@@ -55,18 +55,18 @@ namespace CarInsurance.Controllers
             //    return RedirectToAction("Index");
             //}
             insuree.Quote = 50m;
-            DateTime dt1 = new DateTime(2004, 1, 1);
-            DateTime dt2 = new DateTime(2003, 1, 1);
-            DateTime dt3 = new DateTime(1997, 1, 1);
-            if (insuree.DateOfBirth >= dt1)
+            int age = 0;
+            age = DateTime.Now.Year - insuree.DateOfBirth.Year;
+
+            if (age <= 18)
             {
                 insuree.Quote = insuree.Quote + 100m;
             }
-            else if (insuree.DateOfBirth <= dt2 && insuree.DateOfBirth >= dt3)
+            else if (age >= 19 && age <= 25)
             {
                 insuree.Quote = insuree.Quote + 50m;
             }
-            else if (insuree.DateOfBirth > dt3)
+            else if (age > 25)
             {
                 insuree.Quote = insuree.Quote + 25m;
             }
@@ -102,14 +102,12 @@ namespace CarInsurance.Controllers
             
             if (insuree.DUI == true)
             {
-                decimal duiPercentage = insuree.Quote *= 1.25m;
-                insuree.Quote = insuree.Quote + duiPercentage;
+                insuree.Quote = insuree.Quote *= 1.25m;
             }
 
             if (insuree.CoverageType == true)
             {
-                decimal fullCoverage = insuree.Quote *= 1.50m;
-                insuree.Quote = insuree.Quote + fullCoverage;
+                insuree.Quote = insuree.Quote *= 1.50m;
             }
 
             db.Insurees.Add(insuree);
